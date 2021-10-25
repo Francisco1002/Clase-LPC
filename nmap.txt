@@ -1,0 +1,5 @@
+IP Publica: 187.190.132.99
+Ip Local: 169.254.34.195
+
+red  publica : Host : 187.190.132.99State : upProtocol : tcpport : 53	state : open
+red local:Host : 169.254.34.195 State : up Puertos abiertos: -p  169.254.34.195
